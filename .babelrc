@@ -2,5 +2,6 @@
   "presets": [
     "@babel/preset-env", //transforma toda e qualquer funcionalidade mais recente de js para que  o navegador entenda
     "@babel/preset-react" //Transforma as "coisas" que são exclusivas do react em uma maneira que o navegador entenda
-  ]
+  ],
+  "plugins": ["@babel/plugin-proposal-class-properties"]
 }
