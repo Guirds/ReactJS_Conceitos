@@ -1,3 +1,4 @@
+/*
 import React, { Component, Fragment } from "react";
 import PropTypes from "prop-types";
 import { render } from "react-dom";
@@ -43,3 +44,4 @@ class App extends Component {
 }
 
 render(<App />, document.getElementById("app"));
+*/
